@@ -1,6 +1,6 @@
 # ◾ video_filter
-<h3> ov7670모듈을 사용하여 촬영한 영상을 실시간 필터 처리 <img alt="Static Badge" src="https://img.shields.io/badge/Verilog-08298A"> <img alt="Static Badge" src="https://img.shields.io/badge/Vivado-F2F5A9"> </h3>
-<img src = "https://github.com/user-attachments/assets/9c7252f0-f630-4cd5-9afd-28962c2012e7" width="50%" height="50%">
+<h3> ov7670모듈을 사용하여 촬영한 영상을 실시간 필터 처리 <img alt="Static Badge" src="https://img.shields.io/badge/Verilog-08298A"> <img alt="Static Badge" src="https://img.shields.io/badge/Vivado-F2F5A9"> <img alt="Static Badge" src="https://img.shields.io/badge/C-00599C"> <img alt="Static Badge" src="https://img.shields.io/badge/STM32-2ECCFA">  </h3>
+<img src = "https://github.com/user-attachments/assets/8899ab6e-868d-42c8-b3a2-9d17f91574af" width="50%" height="50%">
 
 # ◾ Introduce
 * FPGA(Cora z7) 보드를 이용 DC모터를 사용하여 선풍기를 구현
