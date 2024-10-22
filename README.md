@@ -12,23 +12,14 @@
 * 타이머 1 3 5 시간 조절
 * 바람세기 및 LED밝기 버튼 오래 누르면 OFF
 
-# ◾ New Features
-* 바람 세기 조절 8단계
-* 바람 세기 버튼 싱글탭(강하게), 더블탭(약하게), 홀드(끄기)
-* 타이머 동작 완료시 음악 출력
-* LCD 정보 표시
-* 온습도 표시
-* 서보를 이용한 회전 기능
-* 초음파를 이용한 긴급정지 기능
-* 마이크를 이용한 ON/OFF 제어 기능
+# ◾ Result
+<img src = "https://github.com/user-attachments/assets/ab9abec8-197f-42a5-aea1-247d60930c00" width="20%" height="20%"> <img src = "https://github.com/user-attachments/assets/fc543efe-dd6e-4af5-a1fc-5c295609636d" width="20%" height="20%"> <img src = "https://github.com/user-attachments/assets/40cb7219-14d9-4518-bb26-55786ff2c956" width="20%" height="20%">
+기본 gray filter gaussian filter
+<img src = "https://github.com/user-attachments/assets/5aa2380d-f92d-4078-8f9b-177d08ad660f" width="20%" height="20%"> <img src = "https://github.com/user-attachments/assets/683e49a2-b767-4d8a-bff9-e8466f891f99" width="20%" height="20%"> <img src = "https://github.com/user-attachments/assets/9b464e86-3807-42c1-b598-67e6636029ed" width="20%" height="20%">
+sobel(-) sobel sobel(+)
 
 # ◾ Operation Video
-* 바람 세기 조절 https://youtu.be/amxgnFB1-bU
-* 좌우 회전 https://youtu.be/bPgRiU4fNQI
-* LED 밝기 조절 https://youtu.be/zgUzKCOYaRg
-* 안전 거리 인식 https://youtu.be/eSFNrJpX_fQ
-* 박수 인식 https://youtu.be/nkvddNRvoq0
-* 부저 알람 https://youtu.be/Eb78H_71BTU
+* 동작 영상 : https://youtube.com/shorts/G9N37caUjqk?feature=share
 
 # ◾ PPT
-https://www.miricanvas.com/v/137nv2j
+https://docs.google.com/presentation/d/18f-8hb3fsiFemCm_-nXAMFwp7X6uXBuc/edit?usp=sharing&ouid=115252002698098783286&rtpof=true&sd=true
