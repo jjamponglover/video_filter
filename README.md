@@ -13,9 +13,12 @@
 * 바람세기 및 LED밝기 버튼 오래 누르면 OFF
 
 # ◾ Result
-<img src = "https://github.com/user-attachments/assets/ab9abec8-197f-42a5-aea1-247d60930c00" width="20%" height="20%"> <img src = "https://github.com/user-attachments/assets/fc543efe-dd6e-4af5-a1fc-5c295609636d" width="20%" height="20%"> <img src = "https://github.com/user-attachments/assets/40cb7219-14d9-4518-bb26-55786ff2c956" width="20%" height="20%">
-기본 gray filter gaussian filter
-<img src = "https://github.com/user-attachments/assets/5aa2380d-f92d-4078-8f9b-177d08ad660f" width="20%" height="20%"> <img src = "https://github.com/user-attachments/assets/683e49a2-b767-4d8a-bff9-e8466f891f99" width="20%" height="20%"> <img src = "https://github.com/user-attachments/assets/9b464e86-3807-42c1-b598-67e6636029ed" width="20%" height="20%">
+<img src = "https://github.com/user-attachments/assets/ab9abec8-197f-42a5-aea1-247d60930c00" alt="기본" width="20%" height="20%"> <img src = "https://github.com/user-attachments/assets/fc543efe-dd6e-4af5-a1fc-5c295609636d" width="20%" height="20%" alt="gray filter"> <img src = "https://github.com/user-attachments/assets/40cb7219-14d9-4518-bb26-55786ff2c956" width="20%" height="20%" title="gaussian filter">   
+   
+   **기본**&nbsp;&nbsp;&nbsp;&nbsp; **Gray filter**   
+<br>   
+<br>
+<img src = "https://github.com/user-attachments/assets/5aa2380d-f92d-4078-8f9b-177d08ad660f" width="20%" height="20%"> <img src = "https://github.com/user-attachments/assets/683e49a2-b767-4d8a-bff9-e8466f891f99" width="20%" height="20%"> <img src = "https://github.com/user-attachments/assets/9b464e86-3807-42c1-b598-67e6636029ed" width="20%" height="20%">   
 sobel(-) sobel sobel(+)
 
 # ◾ Operation Video
